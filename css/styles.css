@@ -28,7 +28,7 @@ header {
     grid-template-columns: 1fr 100px;
     grid-gap: 10px;
 }
-header, footer, .section-wrapper {background: #f0f0f0;}
+header, footer, .section-wrapper {background:#d9edf4;}
 .medium {font-size: 125%;}
 .large {font-size: 400%;}
 figure {height: 100px;}
